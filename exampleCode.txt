@@ -1,0 +1,10 @@
+program examp*le;
+    var x, y: integer;
+    begin
+        x := 10;
+        y := x + 23454@56345;
+        if y > x then
+            write(y);
+        else
+            write(x);
+    end.
