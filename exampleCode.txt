@@ -1,10 +1,14 @@
-program examp*le;
+program example;
     var x, y: integer;
+    var verificador1, verificador2: boolean
     begin
-        x := 10;
-        y := x + 23454@56345;
+        x := 1111111110;
+        y := x + 2345123 - .33;
         if y > x then
             write(y);
         else
             write(x);
+        
+        if verificador1:
+            write(verificador2)
     end.

@@ -1,0 +1,6 @@
+Atividades do Lexer (Adicionar aqui as atividades que você fez e seu status):
+
+1 - Contrução inicial do lexer (Feito: Diogo)
+2 - Adicionar o erro léxico quando tem número concatenado com letra "123a" (Feito: Diogo)
+3 - Adicionar os erros léxicos caso seja colocado algum número do tipo float (Feito: Diogo)
+    → Isso inclui construções como: {NUM}+{DOT} (123.), {NUM}+{DOT}+{NUM} (123.123) ou {DOT}+{NUM} (.123)
